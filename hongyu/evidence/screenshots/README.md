@@ -1,6 +1,6 @@
 # Comparison screenshots
 
-All screenshots are 1440 px wide, rendered from the files in `01-current-pages/` and `05-previous-versions/`.
+All screenshots are 1440 px wide. Iteration 2 images were rendered from the final pages in the root of `hongyu/`; V1 and Iteration 1 images were rendered from the archived pages in `hongyu/iterations/`.
 
 | File | Version | State |
 | --- | --- | --- |
